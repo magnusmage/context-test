@@ -1,7 +1,7 @@
 ---
-author: "<github-handle>"
-date: "<YYYY-MM-DD>"
-tags: [pointers, init]
+author: "Sarmad"
+date: "2026-09-30"
+tags: [pointers]
 ---
 
 # Pointers
@@ -11,8 +11,8 @@ session logs at review time. This file is curated, not append-only.
 
 ## Active threads
 
-- <!-- e.g. Q4 launch: API freeze on Oct 15; docs rewrite in progress. -->
+- Dogfood day 2: second LOAD/PROPOSE cycle against this vault.
 
 ## Current priorities
 
-- <!-- e.g. 1. Ship onboarding flow. 2. Cut p95 latency below 400 ms. -->
+- Keep all vault content synthetic; this sandbox is public forever.
