@@ -1,6 +1,6 @@
 ---
 author: "Sarmad"
-date: "2026-09-30"
+date: "2026-10-02"
 tags: [facts]
 ---
 
@@ -13,3 +13,5 @@ keep it short, current, and non-obvious.
   project; synthetic data only, forever.
 - Writebacks in this vault always ship as pull requests
   (review_gated: true), so every dogfood cycle exercises the review path.
+- Session logs nest by year and month; the first writeback of a new
+  month creates a new sessions/YYYY/MM/ directory.
