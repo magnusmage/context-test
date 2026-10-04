@@ -1,6 +1,6 @@
 ---
 author: "Sarmad"
-date: "2026-10-02"
+date: "2026-10-03"
 tags: [facts]
 ---
 
@@ -15,3 +15,6 @@ keep it short, current, and non-obvious.
   (review_gated: true), so every dogfood cycle exercises the review path.
 - Session logs nest by year and month; the first writeback of a new
   month creates a new sessions/YYYY/MM/ directory.
+- The sandbox now tracks a released Cohort (v0.2.0, tagged 2026-10-02);
+  LOAD behavior on the shipped skill matches the pre-release manual
+  runs.
