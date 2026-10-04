@@ -1,6 +1,6 @@
 ---
 author: "Sarmad"
-date: "2026-10-03"
+date: "2026-10-04"
 tags: [facts]
 ---
 
@@ -18,3 +18,6 @@ keep it short, current, and non-obvious.
 - The sandbox now tracks a released Cohort (v0.2.0, tagged 2026-10-02);
   LOAD behavior on the shipped skill matches the pre-release manual
   runs.
+- Cohort main now carries skill spec_version 0.3.0 (browser-repo
+  bootstrap option); the installer still pins v0.2.0 until the beta
+  feedback defines v0.3.0.
